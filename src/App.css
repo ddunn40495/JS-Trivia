@@ -1,38 +1,29 @@
-.App {
-  text-align: center;
+.question-card {
+  margin-top: 12.5rem;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.b-style {
+  margin: 1.25rem;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body,
+html {
+  background-image: url("https://images.unsplash.com/photo-1595057602304-8b54f16dc1b0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Raleway", sans-serif;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/* .top {
+  display: inline;
+} */
+
+.colors {
+  background-color: #b1b493;
+  font-family: "Raleway", sans-serif;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.colors2 {
+  background-color: #4f8a8b;
+  font-family: "Raleway", sans-serif;
 }
