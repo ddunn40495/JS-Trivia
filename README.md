@@ -1,5 +1,6 @@
-#Tandem Software Engineering Code Challenge
+# Tandem Software Engineering Code Challenge
 http://tandemcode.net
+
 | --- | --- | --- | --- |
 
 
