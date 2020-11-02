@@ -45,5 +45,6 @@ html,
     background-size: cover;
     background-repeat: no-repeat;
     font-family: "Raleway", sans-serif;
+    height: 100vh;
   }
 }
