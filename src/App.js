@@ -1,9 +1,6 @@
 import "./App.css";
 import React, { Fragment, Component } from "react";
-import Result from "./Result";
 
-import injectSheet from "react-jss";
-import Button from "./Button";
 const axios = require("axios");
 
 const newQuestion =
@@ -427,7 +424,7 @@ class App extends Component {
           <div class='col-sm-1'></div>
 
           <div class='col-sm-6'>
-            <div class='card colors'>
+            <div class='card colors score-card'>
               <div class='card-body'>
                 <p class='card-text'>
                   Score: {this.state.score} / {this.state.counter}
