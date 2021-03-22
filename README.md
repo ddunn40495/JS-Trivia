@@ -1,8 +1,7 @@
-# Tandem Software Engineering Code Challenge
+# JS-Trivia
 http://tandemcode.net
 
 
-This is a code challenge that I completed applying for the Tandem Software Engineering Program. I was able to use Open Trivia API to generate questions.
 
 ## Technologies Used
 * JavaScript
